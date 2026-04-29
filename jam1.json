@@ -108,6 +108,19 @@
       "tags": ["microgames", "multiplayer", "three.js", "warioware"],
       "status": "wip",
       "multiplayer": true
-    }
+    },
+    {
+      "id": "joel-game",
+      "title": "IDK YET",
+      "author": "Joel",
+      "description": "Turn based RPG roguelite",
+      "url": "https://jmataway.github.io/project-bad-luck/",
+      "repo": "jmataway/project-bad-luck",
+      "thumbnail": "https://jmataway.github.io/project-bad-luck/thumbnail.png",
+      "type": "2d",
+      "tags": ["rpg", "roguelite", "turn-based"],
+      "status": "wip",
+      "multiplayer": false
+    
   ]
 }
